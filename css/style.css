@@ -50,7 +50,7 @@
 }
 .services .service-items .read-more-cont{
 	display: none;
-	background-color: #0074aa;
+	background-color: #014883;
 }
 .services .service-items .item-inner h3{
 	
@@ -76,9 +76,9 @@
 }
 .services .service-items .item-inner .btn{
 	font-size: 13px;
-	background-color: #fde400;
+	background-color: #092335;
 	border:1px solid #002249;
-	color:#000000;
+	color:#fdfdfd;
 	padding: 8px 15px;
 	cursor: pointer;
 }
@@ -115,7 +115,7 @@
 }
 .popup-box .popup-header h3{
 	margin:0;
-	color:#f8f401;
+	color:#ffffff;
 	font-size: 20px;
 }
 .popup-box .popup-header .popup-close-icon{
@@ -131,7 +131,7 @@
     cursor: pointer;
 }
 .popup-box .popup-body{
-	background-color: #00184d;
+	background-color: #010c4b;
 	padding: 15px;
 	max-height: 300px;
 	overflow-y: auto;
@@ -143,7 +143,7 @@
 }
 .popup-box .popup-body p{
 	font-size: 16px;
-	color:#00ffff;
+	color:#fdffff;
 	margin:0 0 15px;
 }
 .popup-box .popup-footer{
