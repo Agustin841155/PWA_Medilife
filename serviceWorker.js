@@ -73,4 +73,4 @@ function enviarNotificacion() {
     })
   }
 }
-setInterval(enviarNotificacion, 60 * 1000);
+setInterval(enviarNotificacion, 80 * 1000);
