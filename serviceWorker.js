@@ -17,6 +17,12 @@ self.addEventListener('install', function (event) {
       return cache.addAll([
         "/",
         "/index.html",
+        "/html/Noticias.html",
+        "/html/Contacto.html",
+        "/html/Alianzas.html",
+        "/html/Nosotros.html",
+        "/html/Productos.html",
+        "/html/Recomendaciones.html",
         "/css/estilos.css",
         "/css/estilo.css",
         "js/main.js",
@@ -25,9 +31,7 @@ self.addEventListener('install', function (event) {
         "iconos/icon-128x128.png",
         "iconos/icon-256x256.png",
         "iconos/icon-512x512.png",
-        "imagenes/logo.png",
-        "imagenes/quees.jpg",
-        "imagenes/areas-de-opotunidad.jpg",
+        
       ]);
     })
   );
