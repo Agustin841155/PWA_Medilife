@@ -25,6 +25,9 @@ self.addEventListener('install', function (event) {
         "iconos/icon-128x128.png",
         "iconos/icon-256x256.png",
         "iconos/icon-512x512.png",
+        "imagenes/logo.png",
+        "imagenes/quees.jpg",
+        "imagenes/areas-de-opotunidad.jpg",
       ]);
     })
   );
@@ -70,4 +73,4 @@ function enviarNotificacion() {
     })
   }
 }
-setInterval(enviarNotificacion, 80 * 1000);
+setInterval(enviarNotificacion, 60 * 1000);
